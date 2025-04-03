@@ -230,13 +230,12 @@ int main() {
 
 This guide covers the basic concepts of C++ and will help you get started with the language. Happy coding! 😊
 ```
-
-## License and Copyright
+License & Copyright
 © 2025 Kyim Shia. All rights reserved.
 
-This project and its contents are the intellectual property of Kyim Shia. Unauthorized copying, distribution, modification, or use of this code and documentation, in whole or in part, without explicit permission is prohibited.
+This project is owned by Kyim Shia. Unauthorized use, distribution, or modification of any part of this code or documentation is prohibited.
 
-For licensing inquiries, please contact Kyimshia@outlook.com.
+For licensing inquiries, feel free to reach out to: Kyimshia@outlook.com.
 
 
 
