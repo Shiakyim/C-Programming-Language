@@ -1,4 +1,4 @@
-# C++ Basics: Functions, Loops, Arrays, Pointers, Classes, and Structures
+# C++ Programming Language Basics.
 
 This guide is designed for beginners to help them understand the fundamental concepts of C++ programming. Each section explains a core feature of C++ with an easy-to-understand example.
 
