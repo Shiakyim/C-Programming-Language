@@ -229,7 +229,8 @@ int main() {
 ---
 
 This guide covers the basic concepts of C++ and will help you get started with the language. Happy coding! 😊
-```
+
+---
 License & Copyright
 © 2025 Kyim Shia. All rights reserved.
 
