@@ -1459,18 +1459,17 @@ virtual void display();
 
 ---
 
+## License & Copyright
+
 **© 2025 𝔎𝔶𝔦𝔪. All rights reserved.**  
-This project is the exclusive property of **Kyim Shia**. Unauthorized use, distribution, or modification of any part of this code or documentation is strictly prohibited.
+This project is owned by Kyim Shia. Unauthorized use, distribution, or modification of any part of this code or documentation is prohibited.
 
-For licensing inquiries or more information, please feel free to reach out:   
-<a href="mailto:Kyimshia@outlook.com" class="text-blue-600 hover:text-blue-800 transition duration-300 ease-in-out"><img src="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.svg" alt="mail icon" width="20" class="inline-block mr-2" /> Kyimshia@outlook.com</a>
-
----
-
-### Note:  
-This guide is crafted to make learning C++ both insightful and enjoyable. Keep coding and exploring new possibilities in the vast world of programming! ✨
+For licensing inquiries, feel free to reach out to:  
+📧 [Kyimshia@outlook.com](mailto:Kyimshia@outlook.com)
 
 ---
 
----
+**Note:**  
+This guide is designed to make learning C++ both informative and enjoyable. Keep coding and exploring new possibilities in the world of programming! 🌟
 
+---
