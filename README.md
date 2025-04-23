@@ -1465,7 +1465,7 @@ virtual void display();
 This project is owned by Kyim Shia. Unauthorized use, distribution, or modification of any part of this code or documentation is prohibited.
 
 For licensing inquiries, feel free to reach out to:  
-📧 [Kyimshia@outlook.com](mailto:Kyimshia@outlook.com)
+📧 [Contact Us!](mailto:Kyimshia@outlook.com)
 
 ---
 
